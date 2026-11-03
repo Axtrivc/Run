@@ -1,42 +1,26 @@
-# 欧洲 36 国 · 一页一句话
+# 🇪🇺 欧洲 36 国
 
-摘要自 BryceYuuu/RUN 各国页（2026-11-03 逐页检查），门槛为摘要数字，详情与官方来源见原仓库对应国家页。核查期：原仓库标注 2026-10。
+摘要自 BryceYuuu/RUN 各国页（2026-11-03 逐页检查），核查期 2026-10。点国家名进本版摘要页，点“原页”进原仓库完整页。
 
-| 国家 | 关键要点 |
-|---|---|
-| 阿尔巴尼亚 | 数字游民许可，年薪 ≥ USD 16,800，需雇主赞助 |
-| 安道尔 | 被动居留：投资 €60 万 + €5 万无息存款，每年住 90 天 |
-| 奥地利 | 蓝卡 + 红白红卡计分制 + 自雇；无数字游民签证 |
-| 比利时 | 蓝卡 €71,263/年，单一许可，职业卡自雇 |
-| 保加利亚 | 无数字游民签证；蓝卡为平均工资 1.5 倍；税率 10% |
-| 克罗地亚 | 数字游民 + 蓝卡 + 单一居留工作许可 |
-| 塞浦路斯 | 投资永居约 €30 万、约 2 个月；数字游民名额 500 |
-| 捷克 | 数字游民计划不含中国大陆护照；雇员卡；蓝卡 CZK 106,104/月 |
-| 丹麦 | 薪资限额计划 DKK 550,800/年；创业签证 Start-up Denmark |
-| 爱沙尼亚 | 数字游民 €3,960/月（D 签非居留）；蓝卡 €3,138/月；e-Residency 不给居留权 |
-| 芬兰 | 蓝卡 / 专家许可 €3,937/月；2026-01-08 永居规则调整 |
-| 法国 | 蓝卡 €59,373/年；Talent 雇员 €39,582/年；创业者签证 €1,867.02/月 |
-| 德国 | 蓝卡 €50,700（IT 无学历可办），最快 21 个月永居 |
-| 希腊 | 黄金签证 €40/80 万买房；数字游民 €3,500/月 |
-| 匈牙利 | 白卡 €3,000/月（不能转其他居留）；客座投资者 ≥ €25 万 |
-| 冰岛 | 旧远程工作签证 2026 年 5 月已废止，现仅替代路径（本版修正：原页“适合”列表为空） |
-| 爱尔兰 | Critical Skills €40,904/年；STEP；IIP 已于 2023 年关闭（本版修正：目录按开放路线计为 2 条，国家页含已关闭共 3 行） |
-| 意大利 | 数字游民约 €2.5 万/年；选择性居留 €31,160/年；投资者签 €25 万起 |
-| 拉脱维亚 | 远程工作签 €4,538/月（需 OECD 雇主）；2026-09-15 关闭买房居留 |
-| 列支敦士登 | 配额 + 抽签，第三国国民几乎不可行 |
-| 立陶宛 | 蓝卡、国家就业居留、创业签证（页内有 €3,615 / €3,617 微差标注） |
-| 卢森堡 | 蓝卡 €65,652/年；自雇许可最长 3 年 |
-| 马耳他 | MPRP 租房约 €11 万起；数字游民 €4.2 万/年（最长 4 年不通永居）；原投资入籍 2025 年废止（本版修正：收录 8 条，非 7 条） |
-| 黑山 | 数字游民 2+2 年；投资入籍已关闭；2026-10-27 新法（本版修正：目录按开放路线计，国家页另注仅限欧盟公民路线） |
-| 荷兰 | 蓝卡 €5,942/月；高技术移民 30 岁以下 €4,357/月，需认可雇主 |
-| 挪威 | 技术自雇许可，禁止远程工作，3 年可申永居 |
-| 波兰 | 蓝卡 PLN 160,264/年；2026-04-27 起全部 MOS 线上递交 |
-| 葡萄牙 | 数字游民 €3,680/月；黄金签证不能买房；入籍改为 10 年 |
-| 罗马尼亚 | 数字游民约 €5,500/月（欧洲最高档）；蓝卡 RON 9,192/月 |
-| 斯洛伐克 | 蓝卡 €1,944/月，全欧最低之一，首卡 5 年 |
-| 斯洛文尼亚 | 数字游民 2025-11-21 新开，1 年不可续，家属可立即团聚 |
-| 西班牙 | 数字游民 €2,442/月起；黄金签证 2025 年已关闭 |
-| 瑞典 | 蓝卡 SEK 53,625/月；工作许可 SEK 34,470/月；入籍 8 年 |
-| 瑞士 | 第三国国民配额 + 优先本地，基本只适合高端人才 |
-| 土耳其 | USD 40 万买房可申请入籍（非欧盟护照） |
-| 英国 | 永居 2026-11 定案：标准 10 年；学签、毕业生签不再计入 |
+|  |  |
+| --- | --- |
+| [🇦🇱 **阿尔巴尼亚**](europe/albania.md)<br><sub>数字游民许可，年薪 ≥ USD 16,800，需雇主赞助</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/albania.md) | [🇦🇩 **安道尔**](europe/andorra.md)<br><sub>被动居留：投资 €60 万 + €5 万无息存款，每年住 90 天</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/andorra.md) |
+| [🇦🇹 **奥地利**](europe/austria.md)<br><sub>蓝卡 + 红白红卡计分制 + 自雇；无数字游民签证</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/austria.md) | [🇧🇪 **比利时**](europe/belgium.md)<br><sub>蓝卡 €71,263/年，单一许可，职业卡自雇</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/belgium.md) |
+| [🇧🇬 **保加利亚**](europe/bulgaria.md)<br><sub>无数字游民签证；蓝卡为平均工资 1.5 倍；税率 10%</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/bulgaria.md) | [🇭🇷 **克罗地亚**](europe/croatia.md)<br><sub>数字游民 + 蓝卡 + 单一居留工作许可</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/croatia.md) |
+| [🇨🇾 **塞浦路斯**](europe/cyprus.md)<br><sub>投资永居约 €30 万、约 2 个月；数字游民名额 500</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/cyprus.md) | [🇨🇿 **捷克**](europe/czechia.md)<br><sub>数字游民计划不含中国大陆护照；雇员卡；蓝卡 CZK 106,104/月</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/czechia.md) |
+| [🇩🇰 **丹麦**](europe/denmark.md)<br><sub>薪资限额计划 DKK 550,800/年；创业签证 Start-up Denmark</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/denmark.md) | [🇪🇪 **爱沙尼亚**](europe/estonia.md)<br><sub>数字游民 €3,960/月（D 签非居留）；蓝卡 €3,138/月；e-Residency 不给居留权</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/estonia.md) |
+| [🇫🇮 **芬兰**](europe/finland.md)<br><sub>蓝卡 / 专家许可 €3,937/月；2026-01-08 永居规则调整</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/finland.md) | [🇫🇷 **法国**](europe/france.md)<br><sub>蓝卡 €59,373/年；Talent 雇员 €39,582/年；创业者签证 €1,867.02/月</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/france.md) |
+| [🇩🇪 **德国**](europe/germany.md)<br><sub>蓝卡 €50,700（IT 无学历可办），最快 21 个月永居</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/germany.md) | [🇬🇷 **希腊**](europe/greece.md)<br><sub>黄金签证 €40/80 万买房；数字游民 €3,500/月</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/greece.md) |
+| [🇭🇺 **匈牙利**](europe/hungary.md)<br><sub>白卡 €3,000/月（不能转其他居留）；客座投资者 ≥ €25 万</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/hungary.md) | [🇮🇸 **冰岛**](europe/iceland.md)<br><sub>旧远程工作签证 2026 年 5 月已废止，现仅替代路径（本版修正：原页“适合”列表为空）</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/iceland.md) |
+| [🇮🇪 **爱尔兰**](europe/ireland.md)<br><sub>Critical Skills €40,904/年；STEP；IIP 已于 2023 年关闭（目录按开放路线计 2 条，国家页含已关闭共 3 行）</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/ireland.md) | [🇮🇹 **意大利**](europe/italy.md)<br><sub>数字游民约 €2.5 万/年；选择性居留 €31,160/年；投资者签 €25 万起</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/italy.md) |
+| [🇱🇻 **拉脱维亚**](europe/latvia.md)<br><sub>远程工作签 €4,538/月（需 OECD 雇主）；2026-09-15 关闭买房居留</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/latvia.md) | [🇱🇮 **列支敦士登**](europe/liechtenstein.md)<br><sub>配额 + 抽签，第三国国民几乎不可行</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/liechtenstein.md) |
+| [🇱🇹 **立陶宛**](europe/lithuania.md)<br><sub>蓝卡、国家就业居留、创业签证（页内有 €3,615 / €3,617 微差标注）</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/lithuania.md) | [🇱🇺 **卢森堡**](europe/luxembourg.md)<br><sub>蓝卡 €65,652/年；自雇许可最长 3 年</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/luxembourg.md) |
+| [🇲🇹 **马耳他**](europe/malta.md)<br><sub>MPRP 租房约 €11 万起；数字游民 €4.2 万/年（最长 4 年不通永居）；原投资入籍 2025 年废止（本版修正：收录 8 条，非 7 条）</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/malta.md) | [🇲🇪 **黑山**](europe/montenegro.md)<br><sub>数字游民 2+2 年；投资入籍已关闭；2026-10-27 新法（目录按开放路线计，国家页另注仅限欧盟公民路线）</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/montenegro.md) |
+| [🇳🇱 **荷兰**](europe/netherlands.md)<br><sub>蓝卡 €5,942/月；高技术移民 30 岁以下 €4,357/月，需认可雇主</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/netherlands.md) | [🇳🇴 **挪威**](europe/norway.md)<br><sub>技术自雇许可，禁止远程工作，3 年可申永居</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/norway.md) |
+| [🇵🇱 **波兰**](europe/poland.md)<br><sub>蓝卡 PLN 160,264/年；2026-04-27 起全部 MOS 线上递交</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/poland.md) | [🇵🇹 **葡萄牙**](europe/portugal.md)<br><sub>数字游民 €3,680/月；黄金签证不能买房；入籍改为 10 年</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/portugal.md) |
+| [🇷🇴 **罗马尼亚**](europe/romania.md)<br><sub>数字游民约 €5,500/月（欧洲最高档）；蓝卡 RON 9,192/月</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/romania.md) | [🇸🇰 **斯洛伐克**](europe/slovakia.md)<br><sub>蓝卡 €1,944/月，全欧最低之一，首卡 5 年</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/slovakia.md) |
+| [🇸🇮 **斯洛文尼亚**](europe/slovenia.md)<br><sub>数字游民 2025-11-21 新开，1 年不可续，家属可立即团聚</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/slovenia.md) | [🇪🇸 **西班牙**](europe/spain.md)<br><sub>数字游民 €2,442/月起；黄金签证 2025 年已关闭</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/spain.md) |
+| [🇸🇪 **瑞典**](europe/sweden.md)<br><sub>蓝卡 SEK 53,625/月；工作许可 SEK 34,470/月；入籍 8 年</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/sweden.md) | [🇨🇭 **瑞士**](europe/switzerland.md)<br><sub>第三国国民配额 + 优先本地，基本只适合高端人才</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/switzerland.md) |
+| [🇹🇷 **土耳其**](europe/turkiye.md)<br><sub>USD 40 万买房可申请入籍（非欧盟护照）</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/turkiye.md) | [🇬🇧 **英国**](europe/united-kingdom.md)<br><sub>永居 2026-11 定案：标准 10 年；学签、毕业生签不再计入</sub> · [原页](https://github.com/BryceYuuu/RUN/blob/main/docs/europe/united-kingdom.md) |
+
+[← 返回首页](../README.md)
