@@ -13,8 +13,8 @@
 | 比利时单一许可 / 工作许可 | [比利时](../../docs/europe/belgium.md) |  | ✅ 开放 |
 | 保加利亚欧盟蓝卡 | [保加利亚](../../docs/europe/bulgaria.md) |  | ✅ 开放 |
 | 保加利亚单一居留和工作许可 | [保加利亚](../../docs/europe/bulgaria.md) |  | ✅ 开放 |
-| 克罗地亚欧盟蓝卡 | [Croatia](../../docs/europe/croatia.md) | EUR 3,024 monthly | ✅ 开放 |
-| 克罗地亚居留和工作许可 | [Croatia](../../docs/europe/croatia.md) |  | ✅ 开放 |
+| 克罗地亚欧盟蓝卡 | [克罗地亚](../../docs/europe/croatia.md) | EUR 3,024 monthly | ✅ 开放 |
+| 克罗地亚居留和工作许可 | [克罗地亚](../../docs/europe/croatia.md) |  | ✅ 开放 |
 | 塞浦路斯欧盟蓝卡 | [塞浦路斯](../../docs/europe/cyprus.md) | EUR 43,632 annual | ✅ 开放 |
 | 塞浦路斯受雇工作 Single Permit | [塞浦路斯](../../docs/europe/cyprus.md) |  | ✅ 开放 |
 | 捷克 Employee Card | [捷克](../../docs/europe/czechia.md) | CZK 22,400 monthly | ✅ 开放 |

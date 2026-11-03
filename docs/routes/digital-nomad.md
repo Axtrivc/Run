@@ -8,7 +8,7 @@
 | 路线 | 国家 | 门槛 | 状态 |
 | --- | --- | --- | --- |
 | 阿尔巴尼亚数字移动工作者统一许可 | [阿尔巴尼亚](../../docs/europe/albania.md) | ALL 32,000 monthly | ✅ 开放 |
-| 克罗地亚数字游民临时居留 | [Croatia](../../docs/europe/croatia.md) | EUR 3,622.5 monthly | ✅ 开放 |
+| 克罗地亚数字游民临时居留 | [克罗地亚](../../docs/europe/croatia.md) | EUR 3,622.5 monthly | ✅ 开放 |
 | 塞浦路斯数字游民签证 | [塞浦路斯](../../docs/europe/cyprus.md) | EUR 3,500 monthly | ✅ 开放 |
 | 捷克 Digital Nomad Program | [捷克](../../docs/europe/czechia.md) |  | ✅ 开放 |
 | 爱沙尼亚数字游民签证 | [爱沙尼亚](../../docs/europe/estonia.md) | EUR 3,960 monthly | ✅ 开放 |

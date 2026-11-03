@@ -31,10 +31,10 @@
 
 ## 🚪 你是哪种情况？
 
-| 💻 [数字游民](docs/routes.md) | 🧑‍💻 [技术工作 · 蓝卡](docs/routes.md) | 🎓 [留学 → 工作 → 移民](docs/routes.md) |
+| 💻 [数字游民](docs/routes/digital-nomad.md) | 🧑‍💻 [技术工作 · 蓝卡](docs/routes/skilled-work.md) | 🎓 [留学 → 工作 → 移民](docs/routes/study-to-work.md) |
 | --- | --- | --- |
 | 为境外雇主或客户远程工作，想换个国家生活<br><sub>15 条欧洲路线 · 月入 €330 起</sub> | 拿到当地雇主 offer：工作 → 居留 → 永居 → 入籍<br><sub>50+ 条路线 · 最快 21 个月永居</sub> | 毕业后 6–36 个月找工作签证，再转工作签<br><sub>德国 18 个月 · 芬兰 2 年 · 爱尔兰硕士 2 年</sub> |
-| 🚀 [创业 · 自雇](docs/routes.md) | 🏖️ [被动收入 · 退休](docs/routes.md) | 💰 [投资居留 · 入籍](docs/routes.md) |
+| 🚀 [创业 · 自雇](docs/routes/startup-self-employed.md) | 🏖️ [被动收入 · 退休](docs/routes/passive-income.md) | 💰 [投资居留 · 入籍](docs/routes/investment.md) |
 | 在当地开公司、做自由职业<br><sub>爱沙尼亚、爱尔兰 STEP、荷兰、丹麦…</sub> | 靠养老金、租金、存款生活，不在当地工作<br><sub>葡萄牙 D7 €920/月起 · 西班牙 NLV</sub> | 用投资换身份，住得少也能保持<br><sub>希腊 · 塞浦路斯 · 马耳他 · 匈牙利</sub> |
 
 ---
