@@ -1,5 +1,8 @@
 # 🌏 全球 13 个目的地
 
+> ⚠️ 搬运整理版：原项目 BryceYuuu/RUN，地址 https://github.com/BryceYuuu/RUN，详见 ATTRIBUTION.md。
+
+
 摘要自 BryceYuuu/RUN 全球篇。原仓库已声明核查深度低于欧洲篇。
 
 |  |  |

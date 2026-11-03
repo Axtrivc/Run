@@ -1,5 +1,8 @@
 # 🇪🇺 欧洲 36 国
 
+> ⚠️ 搬运整理版：原项目 BryceYuuu/RUN，地址 https://github.com/BryceYuuu/RUN，详见 ATTRIBUTION.md。
+
+
 摘要自 BryceYuuu/RUN 各国页（2026-11-03 逐页检查），核查期 2026-10。点国家名进本版摘要页，点“原页”进原仓库完整页。
 
 |  |  |

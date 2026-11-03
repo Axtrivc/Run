@@ -1,3 +1,15 @@
+# ⚠️ 本项目为搬运整理版，非原创作品
+
+> **原项目：BryceYuuu/RUN — RUN · 润：海外移居手册**
+> **原项目地址：https://github.com/BryceYuuu/RUN**
+> **原项目作者：BryceYuuu**
+> **数据出处：原项目 + LetsMigrate.org 公开项目记录（详见 SOURCES.md 与 ATTRIBUTION.md）**
+> **协议：文档部分沿用原项目 CC BY-SA 4.0（署名 - 相同方式共享）**
+>
+> 本仓库仅对原项目内容做核对、重排与补充说明，不声称对原手册内容拥有原创著作权。如原作者有异议，请通过 GitHub Issue 联系，本仓库将按要求处理。
+
+---
+
 <div align="center">
 
 # Run · 润（优化版）
