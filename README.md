@@ -14,7 +14,7 @@
 ![最新更新](https://img.shields.io/badge/最新更新-2026--11--03-d73a49)
 ![License](https://img.shields.io/badge/内容-CC%20BY--SA%204.0-lightgrey)
 
-**[🧭 我该走哪条路](docs/routes.md)** ｜ **[🌏 主要移民地区](docs/global.md)** ｜ **[🇪🇺 欧洲 36 国](docs/europe.md)** ｜ **[📊 路线对比](docs/europe.md)** ｜ **[📑 文件准备](docs/routes.md)**
+**[🧭 我该走哪条路](docs/routes/choose-route.md)** ｜ **[🌏 主要移民地区](docs/global.md)** ｜ **[🇪🇺 欧洲 36 国](docs/europe.md)** ｜ **[📊 路线对比](docs/europe.md)** ｜ **[📑 文件准备](docs/practical/china-documents.md)**
 
 </div>
 
@@ -82,15 +82,19 @@
 
 | 指南 | 内容 |
 | --- | --- |
-| [🧭 我该走哪条路？](docs/routes.md) | 四步判断：收入来源 → 目标 → 护照限制 → 自检清单 |
-| [🎓 留学 → 工作 → 移民](docs/routes.md) | 欧洲及全球毕业后找工作签证期限对比 |
+| [🧭 我该走哪条路？](docs/routes/choose-route.md) | 四步判断：收入来源 → 目标 → 护照限制 → 自检清单 |
+| [🎓 留学 → 工作 → 移民](docs/routes/study-to-work.md) | 欧洲及全球毕业后找工作签证期限对比 |
 | [🏙️ 生活与身份对比表](docs/europe.md) | 36 国生活成本、工资、个税、护照、入籍年限、双重国籍（摘要版，完整表见原仓库） |
-| [📑 中国申请人文件准备](docs/routes.md) | 海牙认证、无犯罪、学历认证、姓名拼音、资金合规 |
-| [🧾 税务居民入门](docs/routes.md) | 居留 ≠ 税务居民；183 天规则；各国特殊税制 |
-| [✅ 落地前 90 天清单](docs/routes.md) | 住址登记、居留卡、税号、银行、续签时间点 |
+| [📑 中国申请人文件准备](docs/practical/china-documents.md) | 海牙认证、无犯罪、学历认证、姓名拼音、资金合规 |
+| [🧾 税务居民入门](docs/practical/tax-residency.md) | 居留 ≠ 税务居民；183 天规则；各国特殊税制 |
+| [✅ 落地前 90 天清单](docs/practical/landing-checklist.md) | 住址登记、居留卡、税号、银行、续签时间点 |
 | [🔗 资源导航](SOURCES.md) | 官方门户、类似网站、其他润学项目 |
 
 ---
+
+## 📰 2025–2026 变化时间线
+
+完整时间线见 [docs/changes.md](docs/changes.md)：西班牙黄金签关闭、马耳他投资入籍废止、英国永居新政、加拿大 EE 新规等 18 条。
 
 ## 📁 数据出处与署名
 

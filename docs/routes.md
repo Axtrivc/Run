@@ -7,7 +7,10 @@
 - 自己当老板 → 创业 / 自雇：爱尔兰 STEP、芬兰、荷兰等
 - 一笔长期闲置资金 → 投资居留：希腊、塞浦路斯、马耳他、匈牙利等
 
-## 路线页
+## 路线页（点进各页看按类型分的完整路线表）
+
+- [决策指南](routes/choose-route.md) · [数字游民](routes/digital-nomad.md) · [技术工作 / 蓝卡](routes/skilled-work.md) · [创业 · 自雇](routes/startup-self-employed.md) · [投资居留](routes/investment.md) · [被动收入](routes/passive-income.md) · [留学 → 工作](routes/study-to-work.md) · [其他](routes/other.md)
+
 
 | 页 | 内容 |
 |---|---|
@@ -20,6 +23,9 @@
 | 留学 → 工作 | 毕业后找工作签横向对比：德 18 个月、芬最长 2 年、爱尔兰 12/24 个月等 |
 
 ## 实务页
+
+- [文件准备](practical/china-documents.md) · [税务居民](practical/tax-residency.md) · [落地 90 天清单](practical/landing-checklist.md) · [2025–2026 变化时间线](changes.md)
+
 
 | 页 | 内容 |
 |---|---|
